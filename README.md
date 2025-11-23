@@ -24,8 +24,5 @@ AI Legal Assistant has been deployed here:
 
 1. Upload Case Files: Upload your case files to get a predicted judgment backed by solid legal rationale.
 2. Ask Legal Questions: Ask any legal query to AI Legal Assistant's Chat Bot.
-3. Create Legal Documents: AI Legal Assistant can generate content for legal documents, extracting information from your prompts.
-
-## Creators
-V Kamal Jerome | Shakthireka Karthikeyan | Kopika M | Deepesh Raj AY 
+3. Create Legal Documents: AI Legal Assistant can generate content for legal documents, extracting information from your prompts. 
 
