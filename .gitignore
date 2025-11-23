@@ -1,0 +1,7 @@
+.env
+venv
+ipc_embed_db
+ipc_raw.json
+merge_laws.py
+embedding_gen.py
+ingest.py
